@@ -1,0 +1,13 @@
+{
+    "tiles" : [[0, 0, 0, 0, 0, 0],
+               [0, 1, 0, 0, 1, 0],
+               [0, 0, 0, 0, 0, 0],
+               [0, 1, 0, 0, 1, 0],
+               [0, 0, 0, 0, 0, 0],
+               [0, 0, 0, 0, 0, 0]],
+    
+    "targetScore" : 60,
+    "startingTime" : 15,
+    "frequencyToChangeColor" : 4.0,
+    "colorsQuantity": 2
+}
